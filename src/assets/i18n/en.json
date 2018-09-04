@@ -11,22 +11,24 @@
   "TAB1_TITLE": "Items",
   "TAB2_TITLE": "Search",
   "TAB3_TITLE": "Settings",
+  "TAB4_TITLE": "Whayever ",
+
 
   "MAP_TITLE": "Map",
 
   "TUTORIAL_SKIP_BUTTON": "Skip",
   "TUTORIAL_CONTINUE_BUTTON": "Continue",
 
-  "TUTORIAL_SLIDE1_TITLE": "Welcome to the Ionic Super Starter",
-  "TUTORIAL_SLIDE1_DESCRIPTION": "The <b>Ionic Super Starter</b> is a fully-featured Ionic starter with many pre-built pages and best practices.",
+  "TUTORIAL_SLIDE1_TITLE": "Welcome!",
+  "TUTORIAL_SLIDE1_DESCRIPTION": "<p>You are outside the gym. Maybe going to work. Maybe buying fruit at the market... when you get the question:</p> Do you even lift bro??",
 
-  "TUTORIAL_SLIDE2_TITLE": "How to use the Super Starter",
-  "TUTORIAL_SLIDE2_DESCRIPTION": "Assemble the various page types you want and remove the ones you don't. We've provided many common mobile app page layouts, like login and signup pages, tabs, and this tutorial page.",
+  "TUTORIAL_SLIDE2_TITLE": "<span style='font-size:1.5em'>Hell yea, iLiftBro</span>",
+  "TUTORIAL_SLIDE2_DESCRIPTION": "The app that will save you every time!",
 
   "TUTORIAL_SLIDE3_TITLE": "Getting Started",
-  "TUTORIAL_SLIDE3_DESCRIPTION": "Need help? Check out the Super Starter README for a full tutorial",
+  "TUTORIAL_SLIDE3_DESCRIPTION": "Need help? Check out https://WEBSITE.TO.COME.ESE",
 
-  "TUTORIAL_SLIDE4_TITLE": "Ready to Play?",
+  "TUTORIAL_SLIDE4_TITLE": "Now let us excel your training!",
 
   "WELCOME_INTRO": "The starting point for your next great Ionic app",
 
@@ -64,5 +66,5 @@
   "CARDS_TITLE": "Social",
 
   "SEARCH_TITLE": "Search",
-  "SEARCH_PLACEHOLDER": "Search the items list, e.g. \"Donald Duck\""
+  "SEARCH_PLACEHOLDER": "Find your workout, e.g. \"HITTAR SÄKERT NÅGOT BRA HÄR\""
 }

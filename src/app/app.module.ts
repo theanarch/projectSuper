@@ -28,9 +28,9 @@ export function provideSettings(storage: Storage) {
    */
   return new Settings(storage, {
     option1: true,
-    option2: 'Ionitron J. Framework',
-    option3: '3',
-    option4: 'Hello'
+    option2: 'gET ME out of here',
+    option3: 'nÅGONTING',
+    option4: 'eN APP-inställNING'
   });
 }
 
